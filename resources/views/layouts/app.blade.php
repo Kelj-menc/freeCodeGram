@@ -23,8 +23,12 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
+              <!-- MENJAM ODE SVASTA!!!!!!!!!!!!!!-->
+              <!-- ovaj d-flex sam dodao i nem pojma sha je-->
                 <a class="navbar-brand d-flex" href="{{ url('/') }}">
+                  <!-- onaj class pr-3 ti dodje nesto kao padding right 3px-->
                   <div><img src="/svg/logoCrn.svg" style="height:75px; border-right:1px solid #333" class="pr-3"  alt=""></div>
+                  <!-- ovo class="p-4" ti dodje 4 px padding okolo elementa-->
                   <div class="p-4">freeCodeGram</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
