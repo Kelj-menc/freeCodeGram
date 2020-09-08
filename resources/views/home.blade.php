@@ -9,7 +9,7 @@ i desno od nje username followersa kolko postova bio...-->
             <div class="row">
                 <!-- icona -->
                 <div class="col-3 p-5" style="border:1px solid #333">
-                  <img src="https://i.imgur.com/y3yQhxU.jpg" height="150" class="rounded-circle">
+                  <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png" height="150" class="rounded-circle">
                 </div>
 
                 <!-- desno od icone -->
