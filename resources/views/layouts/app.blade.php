@@ -29,7 +29,7 @@
                   <!-- onaj class pr-3 ti dodje nesto kao padding right 3px-->
                   <div><img src="/svg/logoCrn.svg" style="height:75px; border-right:1px solid #333" class="pr-3"  alt=""></div>
                   <!-- ovo class="p-4" ti dodje 4 px padding okolo elementa-->
-                  <div class="p-4">freeCodeGram</div>
+                  <div class="p-4"><strong>freeCodeGram</strong></div>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
