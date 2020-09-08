@@ -8,8 +8,8 @@ i desno od nje username followersa kolko postova bio...-->
             <!-- ovaj  row delim na 2 dela 3/12 (icona) i 9/12 (ostalo desno)-->
             <div class="row">
                 <!-- icona -->
-                <div class="col-3 p-5" style="border:1px solid #333">
-                  <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png" height="150" class="rounded-circle">
+                <div class="col-3 p-5">
+                  <img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/12/9-Best-Online-Avatars-and-How-to-Make-Your-Own-for-Free-image1-5.png" height="150" class="rounded-circle float-right">
                 </div>
 
                 <!-- desno od icone -->
