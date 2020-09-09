@@ -21,7 +21,7 @@ i desno od nje username followersa kolko postova bio...-->
                     <div class="pr-5"><strong>23k</strong> followers</div>
                     <div class="pr-5"><strong>215</strong> following</div>
                   </div>
-                  <div class="pt-4 font-weight-bold">Keljmenc.org</div>
+                  <div class="pt-4 font-weight-bold">Keljmenc.organ</div>
                   <div class="pr-5">
                     There comes a time
                     when we heed a certain call,
